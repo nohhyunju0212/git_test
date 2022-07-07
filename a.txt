@@ -1,2 +1,11 @@
 hello world!
+<<<<<<< HEAD
 inser into anything someone
+=======
+
+i am nohhyunju nice to meet you!
+dog
+cat
+i don't want to study hooooo
+>>>>>>> 6ccdebea7319cf92f9e3cddb7220fa62d562391f
+
